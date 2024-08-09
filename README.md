@@ -7,13 +7,11 @@
 - 前端：uniapp
 
 ## 预览
-
+![62717fb8454a7407652fd32560e60b17](https://github.com/user-attachments/assets/4f6a14b7-1edd-4fb1-9886-649bc825aae0)
 ![2](https://github.com/ubugA/peiwan/assets/145946698/926c5dd3-ab6d-4658-b8b6-56312b538062)
 ![3](https://github.com/ubugA/peiwan/assets/145946698/715a1b8c-bc24-48e0-92a0-49ed412c3376)
 ![4](https://github.com/ubugA/peiwan/assets/145946698/20b2927d-c337-441c-8af2-df3078a21fa2)
 
-
-1
  
 ## 项目地址
 [仿东郊到家源码](https://github.com/ubugA/dongjiao)
